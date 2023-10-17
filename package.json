@@ -1,0 +1,28 @@
+{
+   "name": "alert_v2",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Karan786-dev/alert_v2.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/Karan786-dev/alert_v2/issues"
+   },
+   "homepage": "https://github.com/Karan786-dev/alert_v2#readme",
+   "dependencies": {
+      "axios": "^0.27.2",
+      "dotenv": "^16.0.3",
+      "ejs": "^3.1.8",
+      "express": "^4.18.2",
+      "telegraf": "^4.11.0"
+   }
+}
